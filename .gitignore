@@ -4,5 +4,4 @@ node_modules
 src/protoc-gen-twirp-ts/node_modules
 debug.json
 .idea/
-build/
 coverage/
