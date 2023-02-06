@@ -2,7 +2,7 @@
   "name": "twirp-ts",
   "version": "2.5.0",
   "description": "Typescript implementation of the Twirp protocol",
-  "main": "build/twirp/index.js",
+  "main": "twirp/index.ts",
   "bin": {
     "protoc-gen-twirp_ts": "./protoc-gen-twirp_ts"
   },
